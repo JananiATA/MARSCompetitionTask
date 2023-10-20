@@ -1,0 +1,10 @@
+[
+  {
+    "CollegeName": "TestDelete",
+    "Country": "Australia",
+    "Title": "M.A",
+    "Degree": "CSE",
+    "Year": "2012",
+    "PopUpMessage" : "Education entry successfully removed"
+  }
+]
