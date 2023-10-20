@@ -1,0 +1,16 @@
+[
+  {
+    "CollegeName": "Test1",
+    "Country": "Australia",
+    "Title": "M.A",
+    "Degree": "CSE",
+    "Year": "2010",
+    "CollegeNameNew": "Test1",
+    "CountryNew": "Australia",
+    "TitleNew": "M.A",
+    "DegreeNew": "CSE",
+    "YearNew": "2011",
+    "PopUpMessage": "Duplicated data"
+
+  }
+]

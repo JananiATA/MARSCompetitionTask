@@ -1,0 +1,23 @@
+[
+  {
+    "CollegeName": "Test1",
+    "Country": "Australia",
+    "Title": "M.A",
+    "Degree": "CSE",
+    "Year": "2010"
+  },
+  {
+    "CollegeName": "!@#3456",
+    "Country": "Australia",
+    "Title": "M.A",
+    "Degree": "234123#$%^&*",
+    "Year": "2010"
+  },
+  {
+    "CollegeName": "hfsbnsbsdmnmnskjnsdmmnjkhnm,ksdjklsjkmnslkjhkjnlkn,mlknh3456789",
+    "Country": "Australia",
+    "Title": "M.A",
+    "Degree": "bvvghvhjbslnvlsklk324567890987654fcgvbngukkjnslkj",
+    "Year": "2010"
+  }
+]

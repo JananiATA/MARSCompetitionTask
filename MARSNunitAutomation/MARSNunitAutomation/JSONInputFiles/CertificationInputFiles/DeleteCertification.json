@@ -1,0 +1,9 @@
+[
+  {
+    "CertificationName": "TestDelete1",
+    "CertifiedFrom": "Test1",
+    "year": "2010",
+    "PopUpMessage": "TestDelete1 has been deleted from your certification"
+  }
+ 
+]
